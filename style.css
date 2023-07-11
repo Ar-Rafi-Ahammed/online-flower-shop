@@ -255,7 +255,8 @@ body {
 .survey {
   text-align: center;
   background-color: #e554731a;
-  margin-bottom: 200px;
+  margin-bottom: 100px;
+  padding-bottom: 30px;
 }
 
 .survey-title {
