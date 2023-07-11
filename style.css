@@ -185,3 +185,104 @@ body {
   color: #fff;
   font-size: 18px;
 }
+/* instagram related styles */
+.instagram-header {
+  color: #272727;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 800;
+}
+
+.instagram-para {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 30px;
+}
+
+.image-part {
+  padding: 20px 200px 50px 200px;
+  display: flex;
+  align-items: center;
+}
+.img-1,
+.img-2,
+.img-3,
+.img-4 {
+  margin-right: 15px;
+}
+
+/* latest deal related styles */
+
+.latest-deal {
+  margin: 20px 150px 200px 200px;
+  background-image: url("Flower Asset/Rectangle\ 9.png");
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+  padding: 100px 120px 100px 120px;
+}
+.latest-head {
+  color: #272727;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 800;
+}
+
+.latest-para {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 30px;
+  margin: 3px 0px 10px 0px;
+}
+
+#Email {
+  padding: 12px;
+  border: none;
+  width: 400px;
+  margin-right: 4px;
+}
+.btn-3 {
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+/* share some information  */
+
+.survey {
+  text-align: center;
+  background-color: #e554731a;
+  margin-bottom: 20px;
+}
+
+.survey-title {
+  color: #272727;
+  text-align: center;
+  font-size: 32px;
+  font-weight: 800;
+  padding: 20px;
+}
+.survey-para {
+  color: rgba(39, 39, 39, 0.6);
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 30px;
+  padding: 15px;
+}
+.in-1 {
+  padding: 12px;
+  border: none;
+  width: 400px;
+  margin-right: 4px;
+}
+#txt {
+  padding: 12px;
+  border: none;
+  width: 400px;
+  margin-right: 4px;
+  color: #5a5555;
+}
