@@ -255,7 +255,7 @@ body {
 .survey {
   text-align: center;
   background-color: #e554731a;
-  margin-bottom: 20px;
+  margin-bottom: 200px;
 }
 
 .survey-title {
@@ -285,4 +285,39 @@ body {
   width: 400px;
   margin-right: 4px;
   color: #5a5555;
+}
+
+/* footer part css */
+.footer {
+  padding-top: 60px;
+  padding-bottom: 100px;
+  text-align: center;
+  background-color: black;
+}
+
+.footer-heading {
+  color: #e55473;
+  font-size: 48px;
+  font-weight: 800;
+}
+.shop {
+  color: #fff;
+}
+.footer-para {
+  color: #fff;
+  margin: 20px;
+}
+.footer-address {
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  font-size: 16px;
+  font-weight: 400;
+}
+.w-adj {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: auto 400px;
 }
